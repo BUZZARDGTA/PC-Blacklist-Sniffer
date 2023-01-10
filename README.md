@@ -3,7 +3,6 @@
 ## Description
 
 * Detect blacklisted people who are trying to connect in or who are already in your session.
-* You can even use this script without a modded videogame or cracked program.
 
 **Tested and supported videogames:**
 
@@ -12,6 +11,10 @@
 | Grand Theft Auto 5                  | Yes               |
 | Minecraft Bedrock Edition (Friends) | Yes               |
 
+
+## Advantages
+* The script has a configuration file that allows for more advanced customization of its behavior.
+* You can use the script without a modded videogame or cracked program.
 
 ## Showcase
 
